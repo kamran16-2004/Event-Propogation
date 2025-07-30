@@ -1,5 +1,3 @@
----
-
 Event Propagation using HTML, CSS, and JavaScript
 
 📌 Overview
